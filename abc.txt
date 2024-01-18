@@ -5,4 +5,5 @@ test file to see if the add ___ is file name or just a change comment.
 
 
 This is going to be a test of the git commit messaging function. lets see if i can do this. 
-Now i added text to line 8. going to try this again, writing a body on the commit message. This time ill wrap manually.
+Now i added text to line 8. going to try this again, writing a body on the commit message. This time ill wrap manually.git 
+now the message doesnt have a blank line seperating the subject from the body when i know i oleft one. Going to try this again.
